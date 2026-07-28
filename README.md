@@ -1,4 +1,4 @@
-# Synergy Score Calculation & Figure Generation (R)
+# Synergy Score Calculation & Figure Generation
 
 R workflow to calculate drug-combination synergy scores (ZIP/HSA/Bliss/Loewe) using **synergyfinder** and generate manuscript-ready plots (Figure 3A–C and Supplementary Figure 4A–B).
 
