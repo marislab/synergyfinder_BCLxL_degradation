@@ -43,7 +43,7 @@ The script uses:
 - `synergyfinder (v3.6.3)`
 - `tidyverse (v2.0.0)`
 - `patchwork (v1.3.2)`
-- `RColorBrewer(v1.1-3)`
+- `RColorBrewer (v1.1-3)`
 
 Install (example):
 
